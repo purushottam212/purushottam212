@@ -1,8 +1,5 @@
 # 💫 Hi 👋, I'm **Purushottam Vaidya**
 **Data Engineer | Optimizing Pipelines & Building Scalable Cloud Data Platforms 🚀**
-
-📧 **Email:** vaidyapurushottam11@gmail.com | [LinkedIn](http://www.linkedin.com/in/purushottam-vaidya-57b8b1199)
-
 ---
 
 ### 👨‍💻 About Me
